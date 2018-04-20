@@ -23,6 +23,7 @@
 
 #include <wasm.h>
 #include <wasm-interpreter.h>
+#include "exceptions.h"
 
 #include "exceptions.h"
 
